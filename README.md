@@ -177,3 +177,5 @@
    `    `);
 
    })
+
+1. Untuk membuka applikasi target malalui url di web browser yang dibuka pada perangkat android, gunakan contoh hyperlink pada file intent.php
